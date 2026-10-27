@@ -1,0 +1,6 @@
+# Raw and aggregated collision datasets
+data/
+*.csv
+*.db
+*.sqlite
+*.sqlite3
